@@ -1,0 +1,51 @@
+import pandas as pd
+import json
+
+# Load training dataset
+df = pd.read_csv('training_dataset.csv')
+
+# LULC mapping standard (ISRO/NRSC classes typically used in such models)
+# Let's filter specific classes:
+# LULC 40 = Built-up / Urban / Industrial
+# LULC 10/20/30 = Agriculture / Cropland
+# LULC 50/60 = Barren / Wasteland / Scrub
+
+features_wasteland = []
+features_agriculture = []
+features_industrial = []
+
+for idx, row in df.iterrows():
+    lulc = row['LULC']
+    point_geom = {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [row['longitude'], row['latitude']]
+        },
+        "properties": {
+            "NDVI": row['NDVI'],
+            "NDBI": row['NDBI'],
+            "LST": row['LST'],
+            "Heat_Class": row['Heat_Class'],
+            "LULC": lulc
+        }
+    }
+    
+    if lulc in [50, 60]:  # Barren / Wasteland / Scrub
+        features_wasteland.append(point_geom)
+    elif lulc in [10, 20, 30]:  # Agriculture
+        features_agriculture.append(point_geom)
+    elif lulc == 40:  # Built-up / Industrial
+        features_industrial.append(point_geom)
+
+# Save valid GeoJSONs
+def save_geojson(filename, features):
+    geojson = {"type": "FeatureCollection", "features": features}
+    with open(filename, 'w') as f:
+        json.dump(geojson, f)
+
+save_geojson('ahmedabad_wasteland_parcels.geojson', features_wasteland[:2000]) # Sample for performance
+save_geojson('ahmedabad_agricultural_land.geojson', features_agriculture[:2000])
+save_geojson('ahmedabad_industrial_areas.geojson', features_industrial[:2000])
+
+print("Successfully generated clean spatial GeoJSON layers from training dataset!")

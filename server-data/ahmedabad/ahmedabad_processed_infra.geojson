@@ -1,0 +1,7026 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kesarl Sal Medical College and Research Institute",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "OppositeScience City, Daskroi Taluka, Bhadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4838768,
+          23.0867539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "B.J. Medical College",
+        "category": "Public/ Government",
+        "care_type": "Hospital",
+        "address": "B.J.Medical College, New Civil Hospital, Asarwa",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6073159,
+          23.0451653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Smt.NHL Municipal Medical College",
+        "category": "Public/ Government",
+        "care_type": "Hospital",
+        "address": "Ellis Bridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5623124,
+          23.0262331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ahmedabad Homeopathy Medical College",
+        "category": "Public/ Government",
+        "care_type": "Hospital",
+        "address": "Bopal-Ghuma Road, Ghuma, Daskroi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4421658,
+          23.0082573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "GMERS Medical College",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "GMERS Medical Collage, Sola, SG Highway",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pulse Women's Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "108, Swastik Society, B/H St Xavier's Ladies Hostel, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Centre For Sight, Ahmedabad",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "101, White Cross, 15, Patel Society, Gulbai Tekra",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5515384,
+          23.0271349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Hemato Oncology Clinic Pvt.Ltd.",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Vedanta Institute of Medical Sciences 1st Floor, Stadium Commerce Collage Road, Navrangpura",
+        "total_beds": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dhwani General Hospital, Nursing Home and Materity Home",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "28, New Kamlesh Society, Arbudanagar Road, Odhav",
+        "total_beds": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6450387,
+          23.0100698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Life Care Emergency Centre",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Near.Jain Derasar, Borsalli Appartment Road, Nr.Cama Hotel, Khanpur",
+        "total_beds": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6514213,
+          28.6491211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Parekhs Hospital Pvt.Ltd",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "132, Feet Ring Road, Shyamal Cross Road, Satellite",
+        "total_beds": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5316915,
+          23.0141755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aims Hospital",
+        "category": "Public/ Government",
+        "care_type": "Hospital",
+        "address": "Nr Jethabhai Park, Shantivan, Narayan Nagar Road, Paldi",
+        "total_beds": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5566256,
+          22.9995425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aashu Dental Multispeciality Polyclinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Dr K.K Bungalow,Behind Navrangpura Post Office,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5282434,
+          22.9946755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Abc Dental Clinic andHospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "nan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Amrut Arogyadham Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Laxmikrupa Society Nr. Shiv Shakti Bus Stop, Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Asha Orthoscopi Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ahemdabad",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ashray Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "nan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Asian Institute Of Gastroenterology Surgery",
+        "category": "0",
+        "care_type": "0",
+        "address": "Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Chirag Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1-2 Vrajmadhu Ri Flats, H/H On Bank Of India Near Old Vadaj Bus Terminus",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5766759,
+          23.0602149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Civil Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Asarwa",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6027042,
+          23.0494136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dhwani Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1782,Desai Ni Pole,Khadia",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5937383,
+          23.022393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Devendra Kanaiyalal Hosp and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "11-12,Nand Apartment",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr.Santosh C.Raibagkar",
+        "category": "0",
+        "care_type": "0",
+        "address": "nan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Gulabben Rasiklal Doshi and Smt. Kamlaben Mafatlal",
+        "category": "0",
+        "care_type": "0",
+        "address": "Civil Hospital Campus",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.4062581,
+          26.2435502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jeevandeep Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Chandkheda Kalol Highway Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kalrav Nenotal And Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "F/26, Surjit Society, Nr Mangltirth Hosp, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Laxmi Critical Care Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "New Wadaj Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5200077,
+          22.9945059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Life Care Health Maintenance Organisation",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Jain Derasar,Borasalli Apt. Road,Khanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6514213,
+          28.6491211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Lifecare Emergency Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opp Borsalli Apts. ,Nr Jain Derasar, Cama Hotel Road, Khanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5770706,
+          23.0348049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "M.P Shah Cancer Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "nan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjivan Maternity and Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B And C Shri Krishna Towers",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6432045,
+          23.0542219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navneet Memorial Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "OppositeSardar Patel Seva Samaj Hall , In Lane Opp Navrang Pura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Orthopedic and Trauma Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "nan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanjeevani Fracture andAccident Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Hospital Bipin Complex, Surat",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8310607,
+          21.1702401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shilp Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Samir Complex, Beside Police Station, Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4927108,
+          22.9797708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Utkarsh Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "24-Utkarsh-2 Bunglows, Behind Janta Nagar, Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5775625,
+          23.1051905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vihar Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "nan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vinayak Children Hospital-Maninagar",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opp L.G. Hospital,Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6072666,
+          23.0001725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vrundavan Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opposite S.T. Staiton, Himmatnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9617257,
+          23.5936894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vyoma General Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "28, Krishna Park, Opposite Borsalli Appt., Khanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6514213,
+          28.6491211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shreeji Clinic and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor Mansarovar Plaza Ramnagar, Sabarmati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5912074,
+          23.0834792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ashadeep Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor, Patel House, O/S Deriyapur Darwaja",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5929919,
+          23.0374465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bharti-Vallabh Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Shahibag Railway Crossing, Shahibag",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5936759,
+          23.0511285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Ajay Shah Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "5, Shah Colony , Shahpur Gate",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5795414,
+          23.0345637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Eva Women's Hospital and Gynaec Endoscopy Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr Suvandana Appt, Nr Yamunaji Haveli, Maninagar-Isanpur Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5963139,
+          22.9926277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dev Medical Hospital and Icu",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr Ramji Mandir, Ramnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6468776,
+          22.2056533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dhruvi E.N.T. Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "# 2425-26 Baronet Complex,Ramnagar, Sabarmati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.592215,
+          23.0871897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Divya Jyot Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nilkamal Comlex, 1St. Floor Behind: Shribalaji Comlex, Ramnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1264997,
+          29.3947643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Netra Chikitsa Trust",
+        "category": "0",
+        "care_type": "0",
+        "address": "Highway, Ramnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5933097,
+          23.0862143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Panchhil Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Highway, Ramnagar, Savarmati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5888509,
+          23.0890739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pushpa Children Hospital and Neonatal Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "303 Vitthal Mall, Second Floor, Nanakram Super Market,Opposite H H High School , Ram Nagar, Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sabarmati Development Society Sanchalit Sheth Shri Pukhraj Raichand General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ramnagar, Sabarmati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5933097,
+          23.0862143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sheth Shree Pukhraj Raichand Gen Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ramnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5933097,
+          23.0862143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Desai Hospital andHeart Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "4/B, Chaitnya Nagar, Navjeevan",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307428,
+          18.5162568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr Praful Munishi S Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "50 Pritamnagar, Ellisbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.598619,
+          23.049566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Fracture and Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Sharda Mandir Crossing, Netaji Marg,Near Jalaram Mandir",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.561842,
+          23.017305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Gandhi Uro Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "312, Span Trade Center, Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5664187,
+          23.0165215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Krishna Siddhi Vinayak Heart Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "4Th Floor, Siddhi Vinayak Hospital, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Mangeet Medical Nursing Home and Heart Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "8/A, Hirabaug, Ambawadi, Ellisbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5544468,
+          23.0182385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Maniar Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "4Th Floor,Gala Business Centre,St. Xavier's College Corner,Near Hotel Klassic Gold,Sardar Patel Nagar Road,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjivan Maternity Home And Sonography Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ashish Cross Road, Rameshwar Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6163038,
+          23.0571388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Niva Aks Life Sciences Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "503, Shefali Centre, Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5662048,
+          23.0147055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sannidhya Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "23, Jain Society, Ellisbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.560044,
+          23.018124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Scientific Diagnostic Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "G-14, White House, Panchavati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5557911,
+          23.023374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shree Ch Nagari Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Municipale Corporation, Ellisbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5564588,
+          23.0573976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Talsania Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "B-108, Doctor House, Ellisbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6251672,
+          22.9549835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aastha Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "311, Shanti Arcade, Pushpak Appartment, Aec Cross Road, Naranpura. Aec Cross Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bhavasar Eye Hospital and Maternity Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "No 1 & 3 First Floor, Jaydeep Tower, Near Shreyas Crossing, Vasna Karnavati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5457772,
+          23.0557284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Diva Healthcare Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor, Ambica Complex",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1548762,
+          22.3337302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr Gandhi Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr City Gold Cinema",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Kalpana Munshi Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "S.B.K Society,Narayananagar,Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5568539,
+          22.9977398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jyoti Eye Hospital- Phaco Laser Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "# 7, Samasta Brahma Kshtriya Society, Shantivan Char Rasta , Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5630358,
+          23.0111648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Lekhadia Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "45, Pankaj Society, Bhattha, Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.55703,
+          23.003031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Munshi Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "4, S.B.K Society , Narayan Nagar Road,Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5669336,
+          23.0164223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navneet Memorial Hospital (Sushrusha Hospital)",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opp Telephone Exchange Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.559492,
+          23.031063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Paldi Hospital Private Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5624095,
+          23.0134135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Subhadra Gastro Surgery Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ashram Road,Paldi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5712866,
+          23.0223121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aarti Surgical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "3, Vinay Shopping Centre Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6118466,
+          22.9956934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aastha Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 403/4, Aishwarya Complex,2- Prakash Nagar Society,Opposite Shell Petrol Pump,Jawahar Chowk Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Abhishek Hospital and Heart Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Vibhav Complex, Opposite Canana Bank, L. G. Corner, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ahmedabad Medical Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Vinya Arcade, Nr, Jain Derasar, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Akshar Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Vidita Avenue, Nr Jayhind Char Rasta,Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.593244,
+          22.9990133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ansuya General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "4, Daxini Society Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6070676,
+          22.9907698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ashirwad Children and Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Mahalaxmi Mkt. No.1, Maninagar Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6080444,
+          22.9973381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dalal Surgical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "18, Panchavati Society, Jayhind Char Rasta, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.593244,
+          22.9990133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Daxini Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Daxini Bus Stop, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6145555,
+          22.991032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr Dave Subhash Gajanan Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ram Nivas,Near Mahadev,Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr Sunil Shah's Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2, Mohil Apartment Opp: Jalaram Plaza, Jawahar Chowk Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Abhay K Shah Children",
+        "category": "0",
+        "care_type": "0",
+        "address": "5, Mehta Appartments, Near Radhavallabh Mandir Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Paresh Bhatt",
+        "category": "0",
+        "care_type": "0",
+        "address": "First Floor, Satyam Complex, Opposite Railway Station, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Shurti Ent Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor Akash Compelx,Maninagar Station Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2237432,
+          21.6044742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Harsiddh Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "M-5, Block No 1/1, Shastrinagar, Ankur Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.558009,
+          23.059562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kamal Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "5, Raman Nagar, Opp Swaminarayan Wadi , Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kothari Onco Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sakar Complex, First Floor, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kunal Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "C/101,Shreepal Commercial Center,Hatkeshwar Circle,Khokhara",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6244824,
+          22.999043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Lavingia Orthopedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "E/ Lincon Apt, Opposite Kamala Nehru Garden ,Near Jayhind School , Opposite Uttamnagar Water Tank ,Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Manoramya Children Hospital and Neonatal Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Wapna Complex Jawahar Chowk, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Nilkanth Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2 Kumar Flats Nr Indian Society Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Parimal Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Punit Marg, Near Overbridge, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5322339,
+          23.0191883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ravi Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Gopal Tower Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6098255,
+          22.9979201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Riddhi Medical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "A-101, Jalaram Plaza, Jawahar Chowk, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sangini Bone And Joint Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shashvat Child Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "# 304, Saffron-1, Jagubhai Park, Rambaug, Maninagar,",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995933,
+          22.9972835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sheth Lallubhai Gorthandas General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shivam Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "C-4,Satyanarayan Society,Gor No Kuvo,Near Jasodanagar Cross Road,Maninagar (East )",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6173344,
+          22.992081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shri J.S.Mehta Children Hospital and Neonatal Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Shivam, Jagabhai Park, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shri Sati Ansuya Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Daxini Society, Near Goodluck Sindhi Hall,Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Siddhi Vinayak Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Jaldhara Water Park , Balvatika, Kankaria Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6038517,
+          22.9947787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sukrut Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Prakash Nagar Bus Stop, Jawahar Chowk Road, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6089563,
+          23.0011029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Synergy Neonatal and Pediatric Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Dev Darshan Complex, Jaihind Char Rasta, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.593244,
+          22.9990133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Tejal Eye Hospital And Phaco Surgery Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Gokul Complex, Char Rasta Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5511327,
+          23.0460366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Tr Memorial Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "4Th Floor, Shivani Avenue B/H Javahar Chowk Bus Stop, Bhairavnath Road, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5987432,
+          22.9973389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "V and M Orthopaedic Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Kamal Apartments, Near Bank Of Baroda, Maninagar Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6080444,
+          22.9973381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vivek Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ami-Ganga Complex, Khokhara Circle, Khokhara",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6183117,
+          23.0017237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Yogiji Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Shreepal Commercial Centre, Six Ways, Khokhara",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.616569,
+          22.9991066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aalok Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ashram Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5695801,
+          23.0420922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Anamay Eye Hospital - Ahmedabad",
+        "category": "0",
+        "care_type": "0",
+        "address": "Off. C. G. Road, Near President Hotel, Opposite Mahalya Building, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Arpan Newborncare Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Ishwar Building, Op. Guj. Sports Club, Stadium Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.562583,
+          23.0425151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Astha Kidney And Laparoscopy Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor,Adit Medical Centre Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Banker`S Retina Clinic and Laser Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "5 Subhash Society, Behind Ishwar Bhuvan, Near H.L. Commerce College Six Roads, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Cheers Interventional Pain Management",
+        "category": "0",
+        "care_type": "0",
+        "address": "405 Swapneel-5,H.L.Commerce College Circle, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5541475,
+          23.0403714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Devendra Patel Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Umalaya, Swastic Society, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Kandarp P. Parikh (Shyam Urosurgical Hospital)",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor, Royal House, Nr. Golden Triangle, Sardar Patel Stadium Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5636698,
+          23.0399849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Mahendra Naik",
+        "category": "0",
+        "care_type": "0",
+        "address": "Adit Medical Centre, Behind Hindustan Garage, Nr. High Court Rly Crossing, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Malay D. Patel Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "90-B, Swastik Society, Nr Swastik Cross Roads, Navrangpura.",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Rajendra C. Patel Orthopaedic Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "7, Rashmi Society, Mithakhali, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.562613,
+          23.03285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Suresh K. Bhanshali",
+        "category": "0",
+        "care_type": "0",
+        "address": "304, Narayan Complex, Opp,Havmor Restaurant Nr. Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jaju Plastic Surgery Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr. Somlalit School, Behind Hindu Colony, Stadium,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kadam Maternity Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr Ramvadi Bus Stop",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kanoria Hospital and Research Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ff, Shashwat Complex",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Karma Stone Clinic And Lithotripsy Centre Private",
+        "category": "0",
+        "care_type": "0",
+        "address": "Basement, Shrey Hospital, Nr. Punjabi Hall, B/H Navrangpura Bus-Stop, Near Stadium Circle, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.562583,
+          23.0425151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Modi Eye Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 3, Jaymangal Society,Off 132 Feet Ring Road,Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5495996,
+          23.0578255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Nanavati Eye Hospital Pvt. Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "4, Pavan Apartment, Navarangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5151678,
+          23.0358364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "New Shalby Orthopaedic and Research Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "6-Rupam Society , Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5490158,
+          23.0445355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Nidhi Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "54,Shraddhadip Complex, ,Ankur Road, Shastrinagar,Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5574046,
+          23.0569687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Nidhi Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Shreekunj, Patel Park, Stadium Commerce College Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.558612,
+          23.0376085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Panchal Urology Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opp Memnagar Fire Station Vijay Char Rasta Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5493202,
+          23.0549589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pramukh Neurosurgical Hosptial",
+        "category": "0",
+        "care_type": "0",
+        "address": "45, Hindu Colony, Nr Stadium Circle, Navrangura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5619754,
+          23.0492974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pulse Women's Hospital Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "108, Swastik Society ,B/H. St. Xavier's Ladies Hostel Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rangshree Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "302 Zodiac Plaza, St. Xavier`S College Corner, Hl Commerce College Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.558612,
+          23.0376085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Samdev Urology and Surgery Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Second Floor, Near Sopan Flats, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Samved Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Sopan Flats On Stadium Circle To Commerce College Six Road Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5663963,
+          23.0348708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Samved Urology and Surgery Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Second Floor, Near Sopan Flats, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Santosh Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 31, Govt Hsg Society, Near Navrangpura Municipal Market",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Satya Medical Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "Behind Old High Court , Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5679062,
+          23.0387991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Saviour Annexe Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Off Ashram Road,B/H Sales India,Nr.Kandoi Bhogilal Mulchand,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shrey Hospital Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "270/B/5, Near Amco Bank, Stadium Circle, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.562583,
+          23.0425151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sukhmani Hospital / Saviour Annexe Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Off'ashram Road,Near Kandoibhogilal Mulchand,Dinesh Hall Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Super Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Anamay Building, Nr. Hotel President,Swastik Char Rasta,C.G.Road,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5610286,
+          23.0360548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "The Holistic Medical Centre Ayulink Ayurveda Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Silver Spring, B/H Xavier's Ladies Hostel, Navrangpuram",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026088,
+          38.9906657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Umalay",
+        "category": "0",
+        "care_type": "0",
+        "address": "90-B,Swasthik Society,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5606882,
+          23.0376631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vedanta Institute Of Medical Sciences",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Vedanta, Stadium Commerce College Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.558612,
+          23.0376085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Welcare Speciality Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Flr Royal House,Nr. Golden Triangal. Stadium Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.562583,
+          23.0425151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aarambh Heart and Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "202-203, Aarambh Complex,Near Ankur Bus Stop, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ami-Sagar Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3-4, Nildhara, Opp Vyas Wadi Nava Wadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5665072,
+          23.0672281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Anand Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "6, Shrenik Society, Naranpura Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5601436,
+          23.0520412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aneri Orthopaedic and Maternity Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "M/5/11/81, Shastri Nagar, Ankur Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.558009,
+          23.059562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ankur Superspeciality Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "A/3,4,Vijay Tower, Ankur Comm.Complex, Above Kalupur Comm.Bank, Ankur Cross Road, Ankur, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Asha Maternity Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "113,Abhishek Complex, 1St Floor, Nr. Kameshwar Mahadev, Ankur Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5574046,
+          23.0569687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bhadra Clinic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1/2, Meghalay Flat, Nr Sardar Patel Colony, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5589466,
+          23.0473095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bodycare Orthopaedic and Trauma Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "301, 302 3Rd Floor, Bodycare Complex",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5720102,
+          23.0540244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bopal Multi Speciality Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "First Floor, Abhinandan Complex, Opposite Inductotherm Factory, Bopal",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.412615,
+          23.2599333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Deep-Dhara Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "29, Shantinagarsoc., Old Vadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5766759,
+          23.0602149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Devi Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "44/517, Chitrakut Appt.,Opposite Ioc Petrol Pump, Sola Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.545606,
+          23.0543323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Manish Ravals Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "5Th Floor, Bodycare Medical Centre, Juna Wadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5766759,
+          23.0602149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Saurabh Shah Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3B, Hasmukh Colony, Nr. Vijay Nagar Petrol Pump, Vijay Nagar Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Hari Urosurgical Hospital and Andrology Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Third Floor, Shashwat Complex, Naranpura Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5493202,
+          23.0549589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Harsh Neurosurgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "4Th Floor , Body Medical Centre,Opposite Juna Wadaj Bus Stand, Ashram Road,Juna Wadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.577928,
+          23.0582661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kalavati Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Usmanpura--13",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.570999,
+          23.046206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kanan Maternity and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "11, Gokulnagar Society",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5347078,
+          23.700115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Killol Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Dhanjibhai Complex, 2Nd Floor, Nr. Jivrapark Bus Stop B Block, Nr Naranpura Railway Crossing",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6131219,
+          22.9943678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kumud Heart Hospital and Medical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Bhagvati Nagar,Opposite Patrakar Colony, Vijaynagar, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5574533,
+          23.0623588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Lady Care Women's Hospital and Child Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "Bsf-1-28, Swaminarayan Avenue,B Block,Aec Cross Road,Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Life Care Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "280/1820, Subhash Nagar, , Ioc Road, Chandkheda Bus Stand, Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Life Lie Children and Healthcare Hospital Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "Life Line Complex,12,Virnagar Society,Nr. Bhimjipura Char Rasta,Nava Vadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5663858,
+          23.062385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Manshi Multispeciality Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Akhbarnagar Circle, New Wadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5623968,
+          23.0673225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Matruchhaya Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Khodiyar Complex, Opposite Vijayanagar Petrol Pump, Near Patel Hall, Vijaynagar Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585958,
+          23.0595383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Minal Infertility Clinic and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "304, Shashwat, Naran Pura Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5607786,
+          23.0520667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjivan Maternity and Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Surya Rani Complex, Akhbar Nagar Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5623968,
+          23.0673225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Neurosurgical Hospital(Vadodra)",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sanstha Vasuhat Raopura Baroda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2002291,
+          22.3033187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rhythm Cardio Pulmonary Care Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St& 2Nd Floor,Shashwat Complex Naranpura Char Rasta Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5493202,
+          23.0549589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Riddhi Maternity Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "1, Prayag Society 1St Floor, Opp Ankur Bus Stand Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Samata Hospital Pvt.Ltd - Ahmedabad",
+        "category": "0",
+        "care_type": "0",
+        "address": "C-3,Hasmukh Colony,Vijaynagar Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5607879,
+          23.0568889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanghvi Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "# 11,Kamadurga Society Opp: Ankur Bus Stand Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Satyam Urology and Kidney Hospital Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Mansarover Avenue, Opposite Tulsishyam Flats, Bhimjipura Char Rasta, Nava Vadaj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5663858,
+          23.062385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Umiya Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Samarpur Tower,Opp Panchdev Mahadev ,132 Ring Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5495996,
+          23.0578255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vivek Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor Mansarovar Complex,Opp Uco Bank Nr Naranpura Police Chowky Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Brij Basant Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Bansal House,Hatkesh Society,Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5532019,
+          23.0458602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Cancer Associates",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Shubham Complex, Opposite Bank Of Baroda, Sardar Patel Colony, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5628106,
+          23.0488101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Chirag Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "14/A, Bharat Colony , Stadium Rd",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5618768,
+          23.0505421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Life Care Institute Of Medical Sciences And Research Pvt Ltd (Limsar)",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sardar Patel Statue Corner Stadium Road Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5619306,
+          23.047877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Maneklal and Jagjivan Ujamshi Institute Of Ophthalmo",
+        "category": "0",
+        "care_type": "0",
+        "address": "New Civil Hospital",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Onco Surgical Hospital and Endoscopy Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Aakar' 11, Nathalal Colony, Near Golden Triangle, Stadium Rd., Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.562583,
+          23.0425151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pruthvi Med Nursing Home and Heart Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "S P Colony, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5593154,
+          23.0522531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Radhaswami Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "16, Sardar Patel Stadium Road-14",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5618768,
+          23.0505421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sahyog General Hospital and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Shanti Pura Circle,Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4713571,
+          22.9877945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shalin Eyecare Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Chandraprabhu Complex",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5702392,
+          23.0563223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vrundavan Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Beside Meghaiaya Flats, Nr. Sardar Patel Colony, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5628106,
+          23.0488101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Adventist Wockhardt Heart Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Polytechnic Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5500485,
+          23.0261987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aerimita Hospital and Ashvinau Research",
+        "category": "0",
+        "care_type": "0",
+        "address": "Navkar Complex, Nr Shreyas Crossing",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5457093,
+          23.0128032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Armaan Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Tirthjal, 132, Feet Ring Road, Satellite",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5305849,
+          23.020409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jalaram Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2, Satelite Society, OppositeSundervan, Ahemdabad",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713358,
+          23.0847359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jyoti Maternity Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Ocean Park, Satellite Road, Nehru Nagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5385406,
+          23.0220999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Khandwala Orthopeadic HospitalandSkin Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Nehrunagar S M Road, Ambawadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5426641,
+          23.0224786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kkrishana Heart and Super Speciality Institute",
+        "category": "0",
+        "care_type": "0",
+        "address": "Parmial Garden Ambawadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5561606,
+          23.0203135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rudraksh Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near .S.T.Workshop Patiya,Naroda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.643426,
+          23.065368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shyamal Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Anamay, Near Hotel President, C.G.Road Swastik Char Rasta, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.561433,
+          23.036816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Tulip Women's Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Kala -Tirth, Near Prenatirth Derasar,Jodhpur,Satellite",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5217587,
+          23.0273062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Uro Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "Shubham Hospital 2Nd Floor,Shubham Complex,Opp Bank Of Baroda,Near Sardar Patel's Statue,Sardar Patel Colony,Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5628106,
+          23.0488101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Usha - Deep Hospital and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "3 Floor, Man Sarovar Complex, Opposite Uco Bank ,Naranpura Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5493202,
+          23.0549589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Raj Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Civil Hospital",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Satyamev Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Mehshana State Highway, Near Chandkheda Bus Stop, Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sharma Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Jaroda Nagar, Chokdi Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Maniben K.K. Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Saraspur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6113038,
+          23.0317383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navkar Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Navkar Complex Near Shreyas Railway Crossing",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5457093,
+          23.0128032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Parth Children Hospital and Neonatal Care Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sabarmati",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5864839,
+          23.0883827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "The Gujarat Research and Medical Institute ( Rajasthan Hospital)",
+        "category": "0",
+        "care_type": "0",
+        "address": "Camp Road, Shahibaug",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5889963,
+          23.0418187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "N M Virani Wockhardt Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor, Sanket Complex, Opp:Petrol Pump, Mangal Park, Bhulabhai Park",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5897982,
+          23.0057193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ayushman Medical Hospital and Dignosis Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Payoniyar Plaza, Syam Eastate, Soni Ni Chali Char Rasta, N.H. No.8, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6729322,
+          23.0249514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr. Anjana J Savalia",
+        "category": "0",
+        "care_type": "0",
+        "address": "Savalia Hospital, 24, Moti Chambers , New Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Karmdeep Orthopaedic - Skin Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "A/11, Surjit Society , Opposite Kailashdham -Ii,India Colony Road, ,Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6322052,
+          23.0386642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Metalia Hospital and I C C U",
+        "category": "0",
+        "care_type": "0",
+        "address": "9/99, Vallabh Flets, Nr. Diamond Market & Dhanvantri Hospital , Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ranchhodrai Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Samjuba Hospital, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shiv Jyoti Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "A-63, Shantidhara Society, Colony Road, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6322052,
+          23.0386642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shreeram Polyclinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opposite Amber Cinema, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.619559,
+          23.034889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Tapan Hospital Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 7/75, Vallabh Flate,Near Bapunagar Cross Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Tilak Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sbi Rd, Nr Bhidbhanhan Hanuman Temple, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vatsalya Gynec Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sa-63, Shaktidhara Society, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6323309,
+          23.0401359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ahmedabad Diomand Association Medical Trust (Kakadiya Hospital)",
+        "category": "0",
+        "care_type": "0",
+        "address": "B/H Sukhsagar Complex, Opp Dinesh Chember Bapunagar, Opp Dinesh Chember Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kakadiya Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B/H Sukh Sagar Complex, OppositeDinesh Chamber, L B Shastri Marg Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.630419,
+          23.0372086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Krishna Siddhivinayak Heart Centre (A Unit Of Yogeshwar Healthcare Lmt)",
+        "category": "0",
+        "care_type": "0",
+        "address": "4Th Floor, Kakadiya Hospital, B/H. Sukh Sagar Complex, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Prasad Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sahajanand Complex, Bapa Sitaram Chowk, Harivilla Road, B/H. Parshwnath Town Ship, Nava Naroda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6712894,
+          23.070887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Smruti Opthalmic Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "16-18, Sayona Arcade, , Opposite Dinesh Chambers, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Archan Eye Hospital and Phaco Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Mathruchhaya Complex, Vastral Road,Rabari Colony Char Rasta Amraiwadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6275,
+          23.007206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Het Childcare Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "88/688, G H B Khokhara, Near Hatkeshwar Circle, Amraiwadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6245071,
+          22.9990895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sarveshwari Charitable Trust and General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "5/102, Laxmi Nagar, Satyam Nagar, Hanuman Amraiwadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8664007,
+          19.2074695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ami Eye Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "4, Gandhi Gram Society Opposite Boi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.222316,
+          43.5658231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Medilink Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "33, Prankunj Society",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pooja Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "33, Prankunj Society, Kankaria",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5945836,
+          23.0082263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ramanlal Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1, 2 Nikunj Society, Sardar Patel Hospital Lane Rambaug Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995933,
+          22.9972835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ratan Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Gordhanwadi Tekra, Kankaria",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5801565,
+          23.0044106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Reva Maternity Home And Sonography Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Neelkanth Apartment, , Cadila Road, Ghodasar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6140787,
+          22.983271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sardar Hosital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1,2 Nikunj Society,Sardar Patel Hospital Lane Rambaug Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995933,
+          22.9972835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jhanvi Fracture and Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "8/1, Jayant Park Soc., Nr. Suman Sajni Hall Pruvinagar, Kans Road, Ghodasar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6102337,
+          22.9839274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Joitiba General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Akshar Avenue, Cadila Bridge Corner, Nr Atmamangal Hall, Ghodasar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6102337,
+          22.9839274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shilp Orthopaedics And Trauma Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Ashopalavnagar, Nr Kalpur Co. Bank, Opp Anandwadi Bus Stop, Maninagar-Isanpur Rd",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5963139,
+          22.9926277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shreejee Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Cadila Punitnagar Road, Ghodasar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.611185,
+          22.9899993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Suman Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1, Vagheshwari Society, Canal Road, Ghodasar, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61116,
+          22.981344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Apple Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sardar Complex, Govind Wadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.799793,
+          21.1920041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sankalp Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Surganga Complex, Jivraj Park , Vejalpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5329318,
+          23.0057242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sheetal Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Shyamal Cross Roads",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shridhaj Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Surganga Complex, 132 Ft. Ring Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5329318,
+          23.0057242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aroma Womens Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "E-10, Tarunnagar Part-1, Subhash Chowk, Gurukul Road, Drive- In Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5336155,
+          23.046609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Chandrabhan Hospital and Gynac Institute",
+        "category": "0",
+        "care_type": "0",
+        "address": "Subhash Chowk Sonal Char Rasta Gurukul Road Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Cornea Foundation",
+        "category": "0",
+        "care_type": "0",
+        "address": "(Suyog) Building, 2Nd Floor, Beside Kamala Kam,Dhenu Hall, OppositeGandhi Labour Institute, Drive In Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.536235,
+          23.0459343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Day Night Accident Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "22,Hatkesh Society St-Xavier S High School Road Near Memnagar Fire Station,Darpan Five Roads",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Gurukul E.N.T. Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "211,Heritage Plaza Drive In Road ,Opposite Gurukul Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.533821,
+          23.046168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jain Hospital And Icu",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Oxford Tower, Gurukul Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5332871,
+          23.0471333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jaydeep Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "403 4Th Floor, B Wing Rudra Arcade Police Halmet Cross Roads Junction Of 132 Feet Ring Road Gurukul Road Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kaizen Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "132-Ft, Ring Road, Nr Helmet Circle, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5461162,
+          23.0510083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kalrav Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Memnagar Complex,Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5345384,
+          23.0462309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kidney And Urology Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Shantam Complex, Gurukul Road, Opp Navnit House , Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Livewell Pain Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "52, Rudra Arcade B Helmet Circle, Drive In Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5418899,
+          23.0455939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "May Flower Womens Hospital Pvt. Ltd.,",
+        "category": "0",
+        "care_type": "0",
+        "address": "132 Ft. Ring Road,Drive-In-Road Junction,Nr. Manavmandir, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Milan Orthopaedic and Fracture Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "103, Heritage Plaza, Opposite Gurukul, Drive - In - Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.533821,
+          23.046168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Nandan Maternity Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "Maruti Coplex, Subhash Chowk, Opp, Gurukul Mandir, Drive In Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.536235,
+          23.0459343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Neil Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Navjyot Complex Upper Ground Floor Near A-One School Subhash Chowk Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5336212,
+          23.0524198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ortho Kids Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Kamdhenu House, Opposite Apang Manav Mandal, Drive In Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.536235,
+          23.0459343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pn Desai Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "4,L K Society, B/H Sunset Row House, Next To Sterling Hospital, Gurukul Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Raghudeep Eye Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "Gurukul Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rajvee Ortho Spine and Child Neuro Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Rudra Arcade, 3Rd Floor,132 Ring Road Drive In Road Junction, Near Manav Mandir, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sarthak Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Shantam Complex, Opp Navneet House, Gurukul Road Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shantiniketan Hospital Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "D Block, Shantiniketan Apartments, Opp H B Kapakia School, Gurukal Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6852323,
+          23.6776471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shantnam Eye Care Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B-211, Rudra Arcade, Bis Mayflower Hus, Helmet Cross Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sharda Eye Hospital Phaco And Laser Centre - Ahmedabad",
+        "category": "0",
+        "care_type": "0",
+        "address": "Bhaktinagar, Opposite Sun-Set Row House, Gurukul Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shraddha Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B- 4 Surya Complex Opp Navneet House, Gurukul Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shree Umiya Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Samarpan Tower, Near Ankur Cross Road, 132 Ft Ring Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shreeji Orthopaedic And Ent Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "F/5, Veermurti Comlex Opp Oxford Tower Gurukul Road Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shreekrishna Hospital and Health Care Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "D-1 Block, Shantiniketan Appt. , Opp H. B. Kapadia School , Gurukul Road, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337197,
+          23.0504677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Smruti Fracture Orthopedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Aavkar Complex,Opposite Gurukul Driven - In - Road,Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sunflower Womens Endo Infertility and Hospital Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "Rudra Arcade,Drive In Road,Near Manavmandir,Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Avataran Eye Hospital and Oculoplasty Clinic",
+        "category": "0",
+        "care_type": "0",
+        "address": "49-A, Lad Society ,Sandesh Press Road, Bodakdev",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5233026,
+          23.0382242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Indus Hospital And Iccu Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor, Shailly Complex Near Sant Kabir School, Surdhara Circle Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5257004,
+          23.0528734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Newage Medicare",
+        "category": "0",
+        "care_type": "0",
+        "address": "18, Manipushp, Surdhara Circle, Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5257004,
+          23.0528734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanjeevani Hospital Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr:Doordarshan Tower,Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5251615,
+          23.0474489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Spandan Medical and Research Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "Tulip Bungalow Road, Opp Sudershan Tower, Sun & Step Club Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5117241,
+          23.0497364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sterling Hospital Div. Of Addlife Medical Institute Pvt. Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sterling Hospital Building, Off Gurukul Road, B/H. Drive In Cinema, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5337182,
+          23.0523843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Surveen Children Hospital And Vaccination Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "60, Jeevandeep Row House, B/H. Goyal Intercity, Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5117241,
+          23.0497364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Udit Hospital Multi Speciality",
+        "category": "0",
+        "care_type": "0",
+        "address": "A-6 Venunad Complex, Opposite Udgam School, Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5117241,
+          23.0497364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Mahin Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Mahin Life Care Services Pvt Ltd, Reg. Offi. 1St Floor, Royal Nawab Avenue, Juhapura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5235092,
+          22.99619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aashna Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3Rd Floor, Arohi Arcade, Nr. Government Tube Well Bopal",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.412615,
+          23.2599333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aashray Surgical and Trauma Care",
+        "category": "0",
+        "care_type": "0",
+        "address": "A-11, 1St Floor Gate No. 1, Bhavya Park",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7483628,
+          19.9791248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bopal Eye Care Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Office No.Bs-22 To 25, B Wing, 2Nd Floor,Amarapali Mall, Nr.City Gold Theatre,Bopal",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.412615,
+          23.2599333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jay Prasuti Gruh and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 1-B, Greenpark Baunkkus, S P Ring Road, Bopal Char Rasta",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4267778,
+          23.2210969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Krishna Heart Institute",
+        "category": "0",
+        "care_type": "0",
+        "address": "319, Greencity Ghuma (P O)",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4445151,
+          23.0242303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "New Life Medical and Heart Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "16-17, Samarpan Complex, Ambli-Bopal Ring Road Four Square Ambli",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4774611,
+          23.0282346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sagar Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Green City, Ghuma",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4527779,
+          23.0302433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shreeji Children Hospital,Neonatal Care And Vaccination Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "Siddhi-Ii Apartments B/S I.O.C, Petrol Pump,Near Bopal, Ambali Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4703062,
+          23.0317203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shrey Multifacilities Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Khodiyar Complex, Opposite Dena Bank, Sarkhej, Dholka Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5349432,
+          22.9215273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vanza Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B/H, Petrol Pump, Opp Govt Tube Well, Bopal",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.412615,
+          23.2599333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aditya Multispeciality Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "22, Sadashiv Soc",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Samarpan Maternity And Urosurgical",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor, Bhaikaka Complex Bhai Kaka Nagar Thaltej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5117241,
+          23.0497364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Cutis Cosmetic Plastic Surgery Centre",
+        "category": "0",
+        "care_type": "0",
+        "address": "315-315, Sarvopari Mall, Bhuyang Dev Road, Sola Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5377502,
+          23.0589804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "J J Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Chankayapuri, Sec- 6, Ghatlodia",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5378752,
+          23.0738585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shri Yogeshwar General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Bhavnath Society, Ghatlodia",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5395232,
+          23.0770632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vallabh Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B/3, Agrawal Towers, Bhuyangdev Rasta, Sola Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5360565,
+          23.0594587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Neo Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "M-5, Block No. 1/1, Shastrinagar, Ankur Road, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.558009,
+          23.059562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shruti Maternity and Surgical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "D2 D3 Medical Complex Nr Chandni Nr Chandni Aptts.Naranpura Sola Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.545606,
+          23.0543323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Sanand",
+        "category": "0",
+        "care_type": "0",
+        "address": "Referral Hospital/Samuhik Aarogya Kendra, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3755085,
+          22.9912897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjivan Doctor House",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Gadhiya Cross Road, Sanand - Bavla Road, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3755085,
+          22.9912897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanand Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Tapal Chowk",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Suvidha Orthopedic And Acccident Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Harikrishna Complex, Nalani Bhagol, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3794653,
+          22.9926597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Viramgam",
+        "category": "0",
+        "care_type": "0",
+        "address": "Referral Hospital/Samuhik Aarogya Kendra, Viramgam",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0527421,
+          23.1236377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Mamta Medisurge Private Ltd.",
+        "category": "0",
+        "care_type": "0",
+        "address": "Near Telav Bus Stand,Sarkhej-Sanand Highway,",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.440295,
+          22.985366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjeevan Care Home (Guj) Pvt Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "Above Balubhai Motors, Nr. Sapna Talkies, Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4927108,
+          22.9797708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Sarkhej",
+        "category": "0",
+        "care_type": "0",
+        "address": "Samuhik Arogya Kendra, Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4927108,
+          22.9797708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Parvati Jadav Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "OppositeUnion Co- Op",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Uma Maternity and Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor, Uma Complex Nikol Road, Nava Naroda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6627451,
+          23.0662678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Gayathri Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "J P Complex, 3Rd Floor, Near Naroda Police Station",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5899674,
+          23.0481336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kothari Maternity and Surgical Pvt .Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "Gopal Park Soc, Nr Maya Cinema",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2828538,
+          28.653614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Gayatri Heart and Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "10, Janta Chambers, Saipur Bogha",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6398765,
+          23.0617553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rukshmani Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 45, Krishna -Gokul Society, N H Road 8",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8651258,
+          19.2329536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aagman Maternity and Gynec Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor C-Block Madhav Mall Oppsite Ratanba School Thakkar Bapa Nagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aarna Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "107, Devraj Math,India Colony Road,Bapu Nagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6322052,
+          23.0386642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Anand Hospital and Multispeciality",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Floor ,Pushpak Arcade ,Near Bajrang Ashram,N.H.No.8,Hirawadi,Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.638888,
+          23.044258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ano Care Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B-11, Third Floor,Sardar Patel Mall-B,Nikol Gam Road, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6401135,
+          23.0388245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Hari Krishna Uro Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B-6,Sardar Patel Mall,Nr.Diamond Mill,Nikol Gam Road,Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6401135,
+          23.0388245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Janeta Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "120,Dinesh Chember, India Colony Road, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6322052,
+          23.0386642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Maruti Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Sardar Patel Mall,Nikol Gam Road,National Highway No-8",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6511736,
+          23.0398068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Netra Raksha Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Trimurti Complex Approach Bus Stand India Colony Thakkarbapanagar Road , Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6307533,
+          23.0386956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Raghukul Ortho Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "B-1/5, Ila Society, India Colony",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6382545,
+          23.0387474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shree Shakti Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "C/1/53, Ila Society, India Colony Road,Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6382545,
+          23.0387474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dhwani General Hospital Nursing Home and Maternity Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "No. 28, New Kamlesh Society, Arbudanagar Raod, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6450387,
+          23.0100698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Divya Jeevan Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Raj Complex, Near Rajendra Park Char Rasta, Near Gauri Cinema, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6729322,
+          23.0249514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Odhav Orthopaedic Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Arbudanagar Road, Via Rajendra Park Road, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6449461,
+          23.0098224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rajput Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "3-A, B, Hiraba Complex, Rajendra Park Char Rasta, N H No.8, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6729322,
+          23.0249514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rangam Multispeciality Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1-Arbudanagar, OppositePanchdev Mandir, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6729322,
+          23.0249514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shree Rangkrupa General Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Momainagar, Opposite Shantiniketan School, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6729322,
+          23.0249514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sreeji Medical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "17, Vallabhnagar Society, Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6729322,
+          23.0249514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vatsalya Neonatal and Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "C - Second Floor,Soham Complex,Soni Ni Chali Char Rasta,Odhav",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6713328,
+          23.027679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Akshay Heart and Medical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "96,Nalanda Complex,Vastrapur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5269388,
+          23.0312249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Singarva (Daskroi)",
+        "category": "0",
+        "care_type": "0",
+        "address": "Referral Hospital/Samuhik Aarogya Kendra, Singarva",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6970077,
+          23.0247726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Chhaya Maternity Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "N.D.P. Eletronics, Opposite Isanpur Bus Stop, Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6002263,
+          22.9782583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr, Nayan V Shah Surgical Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "2Nd Flr, Shradhha Complex, Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5987516,
+          22.9808443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Geeta Maternity and Polyclinic Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "10, Ramkrishna Colony, Nr Govindeadi, Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6002263,
+          22.9782583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Harshil Medical Nursing Home",
+        "category": "0",
+        "care_type": "0",
+        "address": "# 19, Asha Society , Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.598929,
+          22.981056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kanan Children Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Opposite Isanpur Bus Stop, Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6023158,
+          22.9763097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Matrupooja Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "11, Ratam Shopping Centre, Isanpur Highway Crossroad, Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6002263,
+          22.9782583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Medicure Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "1St Floor Raj Complex, Opp, Isanpur Bus Stop,Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6002263,
+          22.9782583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "New Life Medical and Heart Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "# 203, Parmukh Palace, Near Jay Hind, Char Rasta, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.593244,
+          22.9990133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Swapn Healthcare Hospital Pvt. Ltd",
+        "category": "0",
+        "care_type": "0",
+        "address": "Groun Floor Sardar Complex Opp Kovid Wadi, Isanpur",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6002263,
+          22.9782583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Naik' Burn Center",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr:Sardar Chowk",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Shivam Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "H R No (261) 1897 22,Sadashiv Society Ranip",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6474545,
+          23.0291363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Vardan Eye Hospital",
+        "category": "0",
+        "care_type": "0",
+        "address": "Nr Nirmay Nagar Underbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5583823,
+          23.0718369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CGHS Dispensary No.3",
+        "category": "Public/ Government",
+        "care_type": "Dispensary",
+        "address": "CGHS Dispensary No.3, 1, Jeevan Prakash\\nSociety, Darpan Six Roads, Nr.St.Xaviers School Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CGHS Dispensary No.4",
+        "category": "Public/ Government",
+        "care_type": "Dispensary",
+        "address": "CGHS Dispensary No.4, Qtr.No.M/49/289, 290, Pragatinagar, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5567139,
+          23.0673142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Aashirwad Surgical Hospital and Nursing Home",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "2nd Floor, Neelkamal Complex, Ramnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1264997,
+          29.3947643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Ansuya General Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "4, Ratna Bhuvan, Daxini Society, Maninagar Railway Crossing",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6075777,
+          22.9940097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "C.H.Nagri Eye Hospital",
+        "category": "Public/ Government",
+        "care_type": "Hospital",
+        "address": "Ellisbridge",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5623124,
+          23.0262331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Clear Vision Eye Hospital (Unit 3)",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Above Tapan Medical Store, Opp L G Hospital, Maninagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5995843,
+          22.9961698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dev Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Kesariyaji Bus Stop, Jivraj Mehta Road, Vasna",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5452848,
+          23.0056634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Devasya Kidney and Multi speciality Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Nr.Bhimajipura Cross Roads,\\nNava Vadaj Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5696557,
+          23.0614938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dharmanandan Surgical Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "2nd floor, Avani Avenue, Manohar villa cross roads, Nikol-Naroda road, Nava Naroda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6636635,
+          23.0638657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Divyajyot Eye Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "316 Orange Mall,\\n3rd Floor, Nr.Sharda Petrol Pump,\\nNr Amts Bus Stop,\\nChandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Doctor House",
+        "category": "Public/ Government",
+        "care_type": "Hospital",
+        "address": "Station road, Dhandhuka",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9188428,
+          22.2402163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr.Atul Shah Eye Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "3rd Floor, Narottam Complex,\\nSola Rd, Visharam Nagar, Memnagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5344732,
+          23.0615268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Dr.Saurabh Shah Orthopaedic Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "3/B, Hasmukh Colony, Vijaynagar Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5607879,
+          23.0568889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Grace Endoscopy (Division of WINGS Hospital)",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "2, Sumanglam Society",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pallav J M Desai Memorial Hospital (Better Health Pvt.Ltd.)",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Alankar Complex, Nr.Old Railway Crossing Maninagar (East)",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.613694,
+          22.994729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Janam Maternity General Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Madhav Complex, Near Police Station Road, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3755085,
+          22.9912897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jivandeep Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Opposite Shree Ram market, Lokdiya Sheri, Dholka",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4435674,
+          22.7428431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Joitiba General Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Akshar Avenue, Cadilla Bridge Corner, Ghodasar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6102337,
+          22.9839274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kiran Surgical Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "301, Pratham Mangal Complex",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5467567,
+          23.0011871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Krishna Shalby Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "319, Green City, Ghuma, Village Bopal",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.412615,
+          23.2599333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Kunal Medical Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "C/101, Shreepal Complex, Hatkeshwar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.628422,
+          22.9897281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Lady Care Womens Hospital Child Care",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "2nd Floor B-Block, Swaminarayan Avenue AEC Cross Road Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Life Care Institute Of Medical Sciences Research Pvt Ltd",
+        "category": "Private",
+        "care_type": "Medical College / Institute, Hospital",
+        "address": "Sardar Patel Statue, Stadium Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5620668,
+          23.0448507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Mahin Lifecare Services Pvt.Ltd",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "1st Floor, Royal Nawab Avenue, Sarkhej Road, Juhanpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5256718,
+          22.9931222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Matulya ENT Clinic",
+        "category": "Private",
+        "care_type": "Clinic",
+        "address": "301, B, Himalaya Emerald, besides IOC petrol pump, 132 Feet Ring Rd, Jodhpur, Satellite",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5217587,
+          23.0273062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjeevan Care Home Guj Pvt.Ltd.",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Above Balubhai Motors, Nr.Sapna Theatre, Ghodka Roads, Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4927108,
+          22.9797708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navjeevan Doctor House",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Near Gadhiya Cross Road, Sanand Bavla Road, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3755085,
+          22.9912897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Navkar Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Navkar Complex, Near Shreyas Railway Crossing Ambawadi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5457093,
+          23.0128032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Netra Raksha Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Trimurti Complex, Thakkarbapa Nagar Road, Approach India Colony",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6383416,
+          23.0391535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Nova Pulse Ivf Clinic Ahmedabad Pvt.Ltd.",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "108, Swastik Society",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611501,
+          23.0390208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "P.H.C.KOTH",
+        "category": "Public/ Government",
+        "care_type": "Primary Health Centre",
+        "address": "Koth, Dholka",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4435674,
+          22.7428431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Parth Maternity and Medical Nursing Home",
+        "category": "Private",
+        "care_type": "Nursing Home",
+        "address": "Shri Krishna Tower, Near Cine Pride Talkies, National Highway - 8 Narol-Naroda Road, Krishna Nagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6242648,
+          23.0498389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "PHC Kuha",
+        "category": "Public/ Government",
+        "care_type": "Primary Health Centre",
+        "address": "Kuha, ta.Dakroi",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "PHC Vataman",
+        "category": "Public/ Government",
+        "care_type": "Primary Health Centre",
+        "address": "Vataman, Dhokla",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pooja Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "33, Parnkunj Society",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5713621,
+          23.022505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Poojan Children Hospital and Neonetal Centre",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "1st Floor, Vaibhav Complex",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9301982,
+          18.5013128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pruthvi Medical Nursing Home and Heart Centre",
+        "category": "Private",
+        "care_type": "Nursing Home",
+        "address": "1st Floor, Saptarshi Complex, Near Sardar Patel Bavla, Naranpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5585003,
+          23.0551934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Pushpa Children Hospital and Critical Care Centre",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "302 Vitthal Mall, Nr Chandkheda Eng.College, Chandkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5727621,
+          23.1115671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Raj Ent Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Dhananjibhai Complex, B Block, Near Naranpura Railway Crossing",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6131219,
+          22.9943678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rhythm Cardio Pulmonory Care Centre and Medical Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "F.F and 2nd Floor, Shashwat Complex, Naranpura Croos Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5591927,
+          23.0381279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Rudraksh Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Near S.T.Workshop Naroda Road, Patiya, Naroda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.643426,
+          23.065368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sagar Orthopaedic Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Vallabhnagar Flats, 3/25, Bapunagar, Char Rasta, Bapunagar",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6294565,
+          23.0348745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sahajanand Eye Care Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "4th Floor, Dolly Complex, Stadium Cross-roads, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5611395,
+          23.0365437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sahyog General Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Nr.Shantipura Ring Road Circle, Sarkhej-Sanand Highway, Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4942028,
+          22.9852441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sal Hospital and Medical Institute",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Opposite Doordarshan Tower Drive In Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5238414,
+          23.0485481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Samata Hospital Pvt.Ltd",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "2nd Floor, Silver Star Complex, Chandlodia-Gota Road",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5252884,
+          23.1059134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanjivani Eye Hospital and Phaco Centre",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "3rd Floor, Soham Complex, Near Navrang, Six Road, Navrangpura",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5663963,
+          23.0348708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanjivani Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Viramgam Bazar, Viramgam",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0527421,
+          23.1236377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Jaydeep Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "403-404, B-Block Rudra Arcade, Besides May Flower Hospital, Helmet Char Rasta, Memnagar",
+        "total_beds": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5424529,
+          23.0456055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Bopal Multispeciality Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "17-18, Abhinandan Complex, Opposite Inductotherm Factory, Bopal",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.412615,
+          23.2599333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Chandkheda",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "Nr.Manikrupa School, I.O.C.Road, Chadkheda",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5759444,
+          23.1126977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Detroj",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "At Po.Detroj",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1875193,
+          23.3333915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Dholka",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "Opposite Minaben Tower, Dholka",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4435674,
+          22.7428431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Sanand",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "Referral Hospital/Samuhik Aarogya Kendra, Singarva",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6970077,
+          23.0247726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Sarkhej",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "Opp ITI, Sarkhej Gam, Sarkhej",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5022216,
+          22.9761405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Singarva",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "Referral Hospital/Samuhik Aarogya Kendra, Singarva",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6970077,
+          23.0247726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "CHC Viramgam",
+        "category": "Public/ Government",
+        "care_type": "Community Health Centre",
+        "address": "Referral Hospital/Samuhik Aarogya Kendra, Viramgam",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0527421,
+          23.1236377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanand Hospital and Trauma Centre",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Navdurga Complex, Bavla Road, Nr.Gadhiya Cross Roads, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3755085,
+          22.9912897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hospital_name": "Sanand Janta Multispeciality Hospital",
+        "category": "Private",
+        "care_type": "Hospital",
+        "address": "Sanand Bavla Road, Sanand",
+        "total_beds": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3755085,
+          22.9912897
+        ]
+      }
+    }
+  ]
+}

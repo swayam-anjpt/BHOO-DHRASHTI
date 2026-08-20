@@ -1,0 +1,20 @@
+import json
+
+data = {
+  "district": "Ahmedabad",
+  "state": "Gujarat",
+  "census_year": 2011,
+  "demographics": {
+    "total_population": 7214225,
+    "literacy_rate_percent": 85.31,
+    "population_density_per_sq_km": 890,
+    "sex_ratio": 904,
+    "total_area_sq_km": 8107
+  },
+  "data_source": "Directorate of Census Operations Gujarat / Census of India 2011"
+}
+
+with open('ahmedabad_socio_economic.json', 'w') as f:
+    json.dump(data, f, indent=2)
+
+print("Successfully generated correct ahmedabad_socio_economic.json!")

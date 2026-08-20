@@ -1,0 +1,24 @@
+{
+  "district": "Ahmedabad",
+  "population": 7214225,
+  "education": {
+    "data_status": "REAL - from filtered UDISE dataset",
+    "total_schools": 4111,
+    "rural_schools": 1728,
+    "urban_schools": 2383,
+    "population_per_school": 1755,
+    "rural_population": 1151178,
+    "rural_population_per_rural_school": 666
+  },
+  "healthcare": {
+    "data_status": "PROVISIONAL - placeholder infra data (3 hospitals only), NOT reliable for judging claims yet",
+    "total_hospitals": 3,
+    "population_per_hospital": 2404742
+  },
+  "public_safety_transit": {
+    "data_status": "PROVISIONAL - placeholder infra data",
+    "total_police_stations": 2,
+    "total_bus_stations": 2,
+    "population_per_police_station": 3607112
+  }
+}

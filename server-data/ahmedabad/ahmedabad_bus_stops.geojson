@@ -1,0 +1,3600 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-08-20T11:48:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37231778",
+        "amenity": "bus_station",
+        "name": "Gita Mandir Bus Station",
+        "operator": "Gujarat State Road Transport Corporation",
+        "website": "http://www.gsrtc.in/site/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5911098,
+              23.0152028
+            ],
+            [
+              72.5912276,
+              23.0145776
+            ],
+            [
+              72.5912958,
+              23.0143872
+            ],
+            [
+              72.5914019,
+              23.0143069
+            ],
+            [
+              72.5915972,
+              23.0143324
+            ],
+            [
+              72.5918352,
+              23.0144829
+            ],
+            [
+              72.5922495,
+              23.0148119
+            ],
+            [
+              72.5924477,
+              23.0150107
+            ],
+            [
+              72.5925892,
+              23.0152582
+            ],
+            [
+              72.5926381,
+              23.0157838
+            ],
+            [
+              72.5926712,
+              23.0164071
+            ],
+            [
+              72.5914769,
+              23.016459
+            ],
+            [
+              72.5914803,
+              23.0166638
+            ],
+            [
+              72.5912131,
+              23.0166127
+            ],
+            [
+              72.5911034,
+              23.0164873
+            ],
+            [
+              72.5910391,
+              23.0158967
+            ],
+            [
+              72.591032,
+              23.0155286
+            ],
+            [
+              72.5911098,
+              23.0152028
+            ]
+          ]
+        ]
+      },
+      "id": "way/37231778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314450134",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Gujarat State Road Transport Corporation | Bus Station | Gita Mandir",
+        "operator": "Gujarat State Road Transport Corporation",
+        "public_transport": "station",
+        "website": "http://www.gsrtc.in/site/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5914071,
+              23.0139585
+            ],
+            [
+              72.5914355,
+              23.0138705
+            ],
+            [
+              72.5917894,
+              23.0134112
+            ],
+            [
+              72.5919026,
+              23.0131376
+            ],
+            [
+              72.5920053,
+              23.0131148
+            ],
+            [
+              72.5923663,
+              23.0131636
+            ],
+            [
+              72.5925468,
+              23.0132092
+            ],
+            [
+              72.5927556,
+              23.0132549
+            ],
+            [
+              72.593067,
+              23.0133363
+            ],
+            [
+              72.593159,
+              23.0134242
+            ],
+            [
+              72.5933093,
+              23.0135901
+            ],
+            [
+              72.5933749,
+              23.0136848
+            ],
+            [
+              72.5934422,
+              23.0138542
+            ],
+            [
+              72.5934811,
+              23.0140399
+            ],
+            [
+              72.5934811,
+              23.0142223
+            ],
+            [
+              72.593513,
+              23.0148054
+            ],
+            [
+              72.5934068,
+              23.0148706
+            ],
+            [
+              72.5932086,
+              23.0149194
+            ],
+            [
+              72.5931024,
+              23.0149553
+            ],
+            [
+              72.5929184,
+              23.0149911
+            ],
+            [
+              72.5928087,
+              23.0150335
+            ],
+            [
+              72.5927025,
+              23.0150758
+            ],
+            [
+              72.5926459,
+              23.0150921
+            ],
+            [
+              72.5925857,
+              23.0150009
+            ],
+            [
+              72.5925538,
+              23.0149292
+            ],
+            [
+              72.5924547,
+              23.0147794
+            ],
+            [
+              72.5923663,
+              23.0146686
+            ],
+            [
+              72.5922495,
+              23.0145741
+            ],
+            [
+              72.5920761,
+              23.0144373
+            ],
+            [
+              72.5918956,
+              23.0143298
+            ],
+            [
+              72.5916513,
+              23.0141409
+            ],
+            [
+              72.5914071,
+              23.0139585
+            ]
+          ]
+        ]
+      },
+      "id": "way/314450134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/323895527",
+        "amenity": "bus_station",
+        "name": "Nava vadej bus stop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5707345,
+              23.0550775
+            ],
+            [
+              72.5713577,
+              23.0546836
+            ],
+            [
+              72.5714643,
+              23.0554581
+            ],
+            [
+              72.5710037,
+              23.0554847
+            ],
+            [
+              72.5707345,
+              23.0550775
+            ]
+          ]
+        ]
+      },
+      "id": "way/323895527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328553143",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Helmet Cross Roads Bus Station",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5427303,
+              23.0448741
+            ],
+            [
+              72.5424099,
+              23.0449446
+            ],
+            [
+              72.5423241,
+              23.0449041
+            ],
+            [
+              72.5422382,
+              23.044854
+            ],
+            [
+              72.5421859,
+              23.0447943
+            ],
+            [
+              72.5418174,
+              23.0442267
+            ],
+            [
+              72.542412,
+              23.0438914
+            ],
+            [
+              72.5427722,
+              23.0443847
+            ],
+            [
+              72.5425335,
+              23.0445504
+            ],
+            [
+              72.5427158,
+              23.0448502
+            ],
+            [
+              72.5427303,
+              23.0448741
+            ]
+          ]
+        ]
+      },
+      "id": "way/328553143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328733432",
+        "amenity": "bus_station",
+        "internet_access": "no",
+        "name": "Vasna Bus Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5472985,
+              23.0023332
+            ],
+            [
+              72.5472741,
+              23.0023024
+            ],
+            [
+              72.5477249,
+              23.0019076
+            ],
+            [
+              72.5479953,
+              23.0019748
+            ],
+            [
+              72.5477978,
+              23.0025487
+            ],
+            [
+              72.5472985,
+              23.0023332
+            ]
+          ]
+        ]
+      },
+      "id": "way/328733432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328753119",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Lal Darwaja AMTS Bus Stop",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5778594,
+              23.0249613
+            ],
+            [
+              72.5778905,
+              23.0241565
+            ],
+            [
+              72.5779771,
+              23.0241592
+            ],
+            [
+              72.578985,
+              23.0241902
+            ],
+            [
+              72.5789963,
+              23.0249899
+            ],
+            [
+              72.5778594,
+              23.0249613
+            ]
+          ]
+        ]
+      },
+      "id": "way/328753119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378473414",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "layer": "1",
+        "name": "Parasnagar BRTS stand",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5430445,
+              23.0556105
+            ],
+            [
+              72.5433356,
+              23.0554588
+            ],
+            [
+              72.5434174,
+              23.0554822
+            ],
+            [
+              72.5431317,
+              23.0556303
+            ],
+            [
+              72.5430445,
+              23.0556105
+            ]
+          ]
+        ]
+      },
+      "id": "way/378473414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378473566",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Sola cross road BRTS stand",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5467949,
+              23.0528519
+            ],
+            [
+              72.5467534,
+              23.052594
+            ],
+            [
+              72.546811,
+              23.0525854
+            ],
+            [
+              72.5468527,
+              23.0528992
+            ],
+            [
+              72.5467949,
+              23.0528519
+            ]
+          ]
+        ]
+      },
+      "id": "way/378473566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/451501638",
+        "amenity": "bus_station",
+        "building": "commercial",
+        "building:colour": "lightgrey",
+        "building:levels": "11",
+        "building:material": "plaster",
+        "name": "Ranip GSRTC",
+        "roof:colour": "lightgrey",
+        "roof:material": "tar_paper",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5751406,
+              23.0680167
+            ],
+            [
+              72.5761685,
+              23.068016
+            ],
+            [
+              72.5764392,
+              23.0686493
+            ],
+            [
+              72.5762282,
+              23.0687399
+            ],
+            [
+              72.5762092,
+              23.0685867
+            ],
+            [
+              72.5752003,
+              23.0687527
+            ],
+            [
+              72.5751543,
+              23.0683951
+            ],
+            [
+              72.5751406,
+              23.0680167
+            ]
+          ]
+        ]
+      },
+      "id": "way/451501638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551617841",
+        "amenity": "bus_station",
+        "building": "yes",
+        "name": "Shivranjani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5311092,
+              23.0243275
+            ],
+            [
+              72.5311301,
+              23.024306
+            ],
+            [
+              72.5311528,
+              23.0242827
+            ],
+            [
+              72.5314816,
+              23.0242811
+            ],
+            [
+              72.5314591,
+              23.0243024
+            ],
+            [
+              72.5314364,
+              23.024324
+            ],
+            [
+              72.5311092,
+              23.0243275
+            ]
+          ]
+        ]
+      },
+      "id": "way/551617841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972959138",
+        "amenity": "bus_station",
+        "bench": "yes",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Iskcon Cross Road BRTS",
+        "network": "BRTS",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "public_transport": "station",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5083304,
+              23.0271344
+            ],
+            [
+              72.5086614,
+              23.0271137
+            ],
+            [
+              72.5087157,
+              23.0271722
+            ],
+            [
+              72.5083951,
+              23.0271908
+            ],
+            [
+              72.5083304,
+              23.0271344
+            ]
+          ]
+        ]
+      },
+      "id": "way/972959138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972959139",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Ashok Vatika BRTS",
+        "network": "BRTS",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4955607,
+              23.0279715
+            ],
+            [
+              72.4955042,
+              23.0279113
+            ],
+            [
+              72.4958522,
+              23.0279058
+            ],
+            [
+              72.4958998,
+              23.0279619
+            ],
+            [
+              72.4955607,
+              23.0279715
+            ]
+          ]
+        ]
+      },
+      "id": "way/972959139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972959140",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Jaintilal Park BRTS",
+        "network": "BRTS",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4908775,
+              23.0284747
+            ],
+            [
+              72.4908237,
+              23.0284288
+            ],
+            [
+              72.4911335,
+              23.0283744
+            ],
+            [
+              72.4911952,
+              23.0284215
+            ],
+            [
+              72.4908775,
+              23.0284747
+            ]
+          ]
+        ]
+      },
+      "id": "way/972959140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972959141",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Swagat Bunglows BRTS",
+        "network": "BRTS",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4857362,
+              23.0278668
+            ],
+            [
+              72.4857154,
+              23.0278393
+            ],
+            [
+              72.4857461,
+              23.0278086
+            ],
+            [
+              72.4860205,
+              23.0278917
+            ],
+            [
+              72.4860539,
+              23.0279582
+            ],
+            [
+              72.4857362,
+              23.0278668
+            ]
+          ]
+        ]
+      },
+      "id": "way/972959141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972959142",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Ambli Gam BRTS",
+        "network": "BRTS",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4820434,
+              23.0264288
+            ],
+            [
+              72.482029,
+              23.0263978
+            ],
+            [
+              72.4820567,
+              23.0263827
+            ],
+            [
+              72.4823287,
+              23.0264815
+            ],
+            [
+              72.4823563,
+              23.0265408
+            ],
+            [
+              72.4820434,
+              23.0264288
+            ]
+          ]
+        ]
+      },
+      "id": "way/972959142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/972959143",
+        "amenity": "bus_station",
+        "bench": "yes",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Bopal Appoach BRTS",
+        "network": "BRTS",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "public_transport": "station",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4777571,
+              23.0258557
+            ],
+            [
+              72.4777333,
+              23.0258242
+            ],
+            [
+              72.4777541,
+              23.0258119
+            ],
+            [
+              72.4780516,
+              23.0258379
+            ],
+            [
+              72.4780947,
+              23.0258844
+            ],
+            [
+              72.4777571,
+              23.0258557
+            ]
+          ]
+        ]
+      },
+      "id": "way/972959143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1015046805",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Naroda Gam",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6555914,
+              23.0771262
+            ],
+            [
+              72.6556064,
+              23.0770393
+            ],
+            [
+              72.6559819,
+              23.0770768
+            ],
+            [
+              72.655954,
+              23.0771735
+            ],
+            [
+              72.6555914,
+              23.0771262
+            ]
+          ]
+        ]
+      },
+      "id": "way/1015046805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611572689",
+        "highway": "bus_stop",
+        "name": "Acher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5883112,
+          23.0987428
+        ]
+      },
+      "id": "node/611572689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611572692",
+        "highway": "bus_stop",
+        "name": "Gujarat Stadium (Motera)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5951643,
+          23.0945534
+        ]
+      },
+      "id": "node/611572692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611572694",
+        "highway": "bus_stop",
+        "name": "Shiv Shakti Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.584599,
+          23.1104959
+        ]
+      },
+      "id": "node/611572694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611572695",
+        "highway": "bus_stop",
+        "name": "Chandkheda Bus Depo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5832285,
+          23.1151091
+        ]
+      },
+      "id": "node/611572695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611572696",
+        "highway": "bus_stop",
+        "name": "Janta Nagar (Parshwanath Nagar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5856397,
+          23.1071309
+        ]
+      },
+      "id": "node/611572696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611572697",
+        "highway": "bus_stop",
+        "name": "ONGC Bus Depo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5867663,
+          23.1036376
+        ]
+      },
+      "id": "node/611572697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611573336",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Police Stadium",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5884185,
+          23.0563204
+        ]
+      },
+      "id": "node/611573336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611573340",
+        "highway": "bus_stop",
+        "layer": "1",
+        "name": "Subhash Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5837193,
+          23.0655502
+        ]
+      },
+      "id": "node/611573340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611573343",
+        "highway": "bus_stop",
+        "name": "RTO Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5808869,
+          23.0684819
+        ]
+      },
+      "id": "node/611573343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611573366",
+        "bench": "no",
+        "highway": "bus_stop",
+        "layer": "1",
+        "name": "Shahibaug Underbridge",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5904999,
+          23.0527171
+        ]
+      },
+      "id": "node/611573366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631801190",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5689346,
+          23.0119174
+        ]
+      },
+      "id": "node/631801190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1952514121",
+        "highway": "bus_stop",
+        "local_ref": "BUS TERMINUS",
+        "name": "Nava-Vadaj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5624497,
+          23.0682646
+        ]
+      },
+      "id": "node/1952514121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2211705413",
+        "designation": "AMTS Bus Stop",
+        "highway": "bus_stop",
+        "local_ref": "GST Crossing",
+        "name": "GST Crossing 1 (AMTS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5661042,
+          23.0844751
+        ]
+      },
+      "id": "node/2211705413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265925488",
+        "highway": "bus_stop",
+        "name": "GMDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5386288,
+          23.0397128
+        ]
+      },
+      "id": "node/2265925488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265925489",
+        "highway": "bus_stop",
+        "name": "Bimanagar / Jhansi Ki Rani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53633,
+          23.0230285
+        ]
+      },
+      "id": "node/2265925489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265925490",
+        "highway": "bus_stop",
+        "name": "Nehru Nagar",
+        "operator": "Ahmedabad Janmarg Limited",
+        "shelter": "yes",
+        "source": "http://www.ahmedabadbrts.com/web/index.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5416944,
+          23.0225299
+        ]
+      },
+      "id": "node/2265925490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265925491",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "IIM",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5360081,
+          23.0346324
+        ]
+      },
+      "id": "node/2265925491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265925492",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5312229,
+          23.0242856
+        ]
+      },
+      "id": "node/2265925492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265925493",
+        "highway": "bus_stop",
+        "name": "Himmatlal Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.532414,
+          23.0297528
+        ]
+      },
+      "id": "node/2265925493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265926056",
+        "highway": "bus_stop",
+        "name": "Manek Baug",
+        "operator": "Ahmedabad Janmarg Ltd.",
+        "shelter": "yes",
+        "source": "http://www.ahmedabadbrts.com/web/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5440487,
+          23.0183103
+        ]
+      },
+      "id": "node/2265926056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953631",
+        "highway": "bus_stop",
+        "name": "Anjali Cross Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5538743,
+          23.003723
+        ]
+      },
+      "id": "node/2265953631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953635",
+        "highway": "bus_stop",
+        "name": "Rambaug",
+        "operator": "BRTS , Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6006692,
+          22.9999238
+        ]
+      },
+      "id": "node/2265953635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953636",
+        "highway": "bus_stop",
+        "name": "Amarkunj /Swaminarayan College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5870103,
+          23.0013898
+        ]
+      },
+      "id": "node/2265953636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953637",
+        "highway": "bus_stop",
+        "name": "Bhairavnath",
+        "operator": "BRTS , Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5990646,
+          22.995457
+        ]
+      },
+      "id": "node/2265953637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953638",
+        "highway": "bus_stop",
+        "name": "Swaminarayan Mandir",
+        "operator": "BRTS , Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6117044,
+          22.9948853
+        ]
+      },
+      "id": "node/2265953638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953639",
+        "highway": "bus_stop",
+        "name": "Shah Alam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5829655,
+          22.9998665
+        ]
+      },
+      "id": "node/2265953639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953642",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Jawahar Chowk",
+        "operator": "BRTS , Ahmedabad",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6050988,
+          22.9951368
+        ]
+      },
+      "id": "node/2265953642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953643",
+        "highway": "bus_stop",
+        "name": "Maninagar",
+        "operator": "BRTS , Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6064312,
+          22.9972369
+        ]
+      },
+      "id": "node/2265953643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953644",
+        "highway": "bus_stop",
+        "name": "National Cloth Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.570209,
+          22.9955236
+        ]
+      },
+      "id": "node/2265953644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953647",
+        "highway": "bus_stop",
+        "name": "Gokulnath Chowk /Meera Cinema Char Rasta",
+        "operator": "BRTS , Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5932198,
+          22.9990894
+        ]
+      },
+      "id": "node/2265953647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953648",
+        "highway": "bus_stop",
+        "name": "Kankaria Lake",
+        "operator": "BRTS , Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5990158,
+          23.0031799
+        ]
+      },
+      "id": "node/2265953648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953649",
+        "highway": "bus_stop",
+        "name": "Maninagar Railway Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6113755,
+          22.9978049
+        ]
+      },
+      "id": "node/2265953649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953650",
+        "highway": "bus_stop",
+        "name": "Kankaria Telephone Exchange",
+        "name:ko": "우다이푸르 사설정류장",
+        "operator": "BRTS , Ahmedabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5928227,
+          23.0024169
+        ]
+      },
+      "id": "node/2265953650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953651",
+        "highway": "bus_stop",
+        "name": "Dharnidhar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5492824,
+          23.0082114
+        ]
+      },
+      "id": "node/2265953651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953652",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chandranagar BRT",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5580988,
+          22.9997529
+        ]
+      },
+      "id": "node/2265953652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265953653",
+        "highway": "bus_stop",
+        "name": "Dani Limda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5774026,
+          22.9964913
+        ]
+      },
+      "id": "node/2265953653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288824667",
+        "highway": "bus_stop",
+        "name": "AMTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5321646,
+          23.0660707
+        ]
+      },
+      "id": "node/2288824667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288824668",
+        "highway": "bus_stop",
+        "name": "Gulab Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5255748,
+          23.0631171
+        ]
+      },
+      "id": "node/2288824668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3231323519",
+        "highway": "bus_stop",
+        "name": "Airport Circle bus stop",
+        "operator": "AMTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6167476,
+          23.0813883
+        ]
+      },
+      "id": "node/3231323519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306683481",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "kerb": "raised",
+        "kerb:approach_aid": "yes",
+        "lit": "yes",
+        "name": "Municipal Corporation Office",
+        "operator": "BRTS",
+        "passenger_information_display": "yes",
+        "passenger_information_display:speech_output": "no",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5860412,
+          23.0197907
+        ]
+      },
+      "id": "node/3306683481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3316875855",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.579101,
+          23.0220727
+        ]
+      },
+      "id": "node/3316875855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333960611",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5953013,
+          22.9739626
+        ]
+      },
+      "id": "node/3333960611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333960612",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5952484,
+          22.9740487
+        ]
+      },
+      "id": "node/3333960612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333960613",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6023816,
+          22.9761795
+        ]
+      },
+      "id": "node/3333960613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333960614",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6023401,
+          22.9762426
+        ]
+      },
+      "id": "node/3333960614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333960615",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6101868,
+          22.9784932
+        ]
+      },
+      "id": "node/3333960615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333960616",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.610175,
+          22.9785615
+        ]
+      },
+      "id": "node/3333960616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393851425",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "AMTS",
+        "name": "Meghaninagar",
+        "public_transport": "platform",
+        "route_ref": "AMTS Bus No. 50, 17, 28, 31, 33/1, 38, 70/1, 90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6180264,
+          23.0594578
+        ]
+      },
+      "id": "node/3393851425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415672552",
+        "highway": "bus_stop",
+        "name": "GMDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5385489,
+          23.0397496
+        ]
+      },
+      "id": "node/3415672552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415672553",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Memnagar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5424176,
+          23.0455534
+        ]
+      },
+      "id": "node/3415672553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3415672554",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Memnagar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5424739,
+          23.0455543
+        ]
+      },
+      "id": "node/3415672554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4210649810",
+        "bench": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Bhavsar Hostel",
+        "name:en": "Ranip BRTS",
+        "operator": "Ahmedabad BRTS",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5756845,
+          23.0676729
+        ]
+      },
+      "id": "node/4210649810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4376679089",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus stop Riverside School",
+        "name:en": "Bus stop Riverside School",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5258779,
+          23.0530366
+        ]
+      },
+      "id": "node/4376679089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4481510492",
+        "highway": "bus_stop",
+        "name": "Hanspura Bus stop",
+        "name:en": "Hanspura Bus stop",
+        "name:hi": "हसपुरा बस स्टॉप"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6800838,
+          23.0847663
+        ]
+      },
+      "id": "node/4481510492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485407989",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Iscon ST bus stop",
+        "name:en": "Iscon ST bus stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5085005,
+          23.0315615
+        ]
+      },
+      "id": "node/4485407989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585304001",
+        "highway": "bus_stop",
+        "name": "Chandlodiya",
+        "name:en": "Chandlodiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5512141,
+          23.0847978
+        ]
+      },
+      "id": "node/4585304001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585304002",
+        "highway": "bus_stop",
+        "name": "JUNA VADAJ",
+        "name:en": "JUNA VADAJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5620316,
+          23.0670122
+        ]
+      },
+      "id": "node/4585304002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588982754",
+        "highway": "bus_stop",
+        "name": "Pvt travels Sahjanand Travels",
+        "operator": "pvt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5252397,
+          23.025739
+        ]
+      },
+      "id": "node/4588982754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4588990189",
+        "highway": "bus_stop",
+        "name": "Shree Sahjanand Travels",
+        "name:en": "Shree Sahjanand Travels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.525333,
+          23.02562
+        ]
+      },
+      "id": "node/4588990189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590687293",
+        "highway": "bus_stop",
+        "name": "Kadambari Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5310458,
+          23.0060914
+        ]
+      },
+      "id": "node/4590687293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4702938189",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus to Udaipur",
+        "name:en": "Bus to Udaipur",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.643304,
+          23.0655907
+        ]
+      },
+      "id": "node/4702938189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792997117",
+        "highway": "bus_stop",
+        "name": "Vadodara Patiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7871937,
+          23.1490267
+        ]
+      },
+      "id": "node/4792997117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794246527",
+        "highway": "bus_stop",
+        "name": "Ranip Bus stop",
+        "name:en": "Ranip Bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5771961,
+          23.081039
+        ]
+      },
+      "id": "node/4794246527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327118488",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.531215,
+          23.0243207
+        ]
+      },
+      "id": "node/5327118488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327118489",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5313857,
+          23.0243186
+        ]
+      },
+      "id": "node/5327118489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327118490",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Shivranjani",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5313961,
+          23.0242849
+        ]
+      },
+      "id": "node/5327118490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445054647",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maninagar Railway stop",
+        "operator": "BRTS , Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6113064,
+          22.9977864
+        ]
+      },
+      "id": "node/5445054647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445054648",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lala LAjpat marg",
+        "operator": "BRTS , Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6104161,
+          22.9979864
+        ]
+      },
+      "id": "node/5445054648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5445054650",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rambaug Post office",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6013622,
+          22.9989051
+        ]
+      },
+      "id": "node/5445054650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5540117734",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maninagr Railway Station",
+        "operator": "BRTS , Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6113901,
+          22.9978087
+        ]
+      },
+      "id": "node/5540117734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5540117735",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maninagar Cross Road",
+        "operator": "BRTS , Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.606434,
+          22.9972438
+        ]
+      },
+      "id": "node/5540117735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5540117736",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rambaug",
+        "operator": "BRTS, Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6006742,
+          22.9999248
+        ]
+      },
+      "id": "node/5540117736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545191206",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ISRO , Ahmedabad",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5177376,
+          23.027686
+        ]
+      },
+      "id": "node/5545191206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545191207",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ramdev Nagar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5126258,
+          23.0275153
+        ]
+      },
+      "id": "node/5545191207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545191837",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ISKCON Mandir",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5049454,
+          23.0274858
+        ]
+      },
+      "id": "node/5545191837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545191838",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Antariksh Colony",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5009162,
+          23.0277628
+        ]
+      },
+      "id": "node/5545191838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5711617727",
+        "highway": "bus_stop",
+        "name": "Little Wings BRTS stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4596133,
+          23.0320762
+        ]
+      },
+      "id": "node/5711617727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8157583232",
+        "highway": "bus_stop",
+        "name": "Bopal gam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4640698,
+          23.0340068
+        ]
+      },
+      "id": "node/8157583232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233960",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5754247,
+          23.1891887
+        ]
+      },
+      "id": "node/9316233960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233961",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5754864,
+          23.1889686
+        ]
+      },
+      "id": "node/9316233961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233962",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5725601,
+          23.1775522
+        ]
+      },
+      "id": "node/9316233962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233963",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5726245,
+          23.1775485
+        ]
+      },
+      "id": "node/9316233963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233965",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5783658,
+          23.1876989
+        ]
+      },
+      "id": "node/9316233965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233966",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5784771,
+          23.1878234
+        ]
+      },
+      "id": "node/9316233966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233967",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5771387,
+          23.1887375
+        ]
+      },
+      "id": "node/9316233967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233968",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5772755,
+          23.1888053
+        ]
+      },
+      "id": "node/9316233968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233969",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5716764,
+          23.1838828
+        ]
+      },
+      "id": "node/9316233969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9316233970",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5715597,
+          23.1838199
+        ]
+      },
+      "id": "node/9316233970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10177919684",
+        "description": "BRTS Terminal",
+        "highway": "bus_stop",
+        "name": "South Bopal BRTS Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4656001,
+          23.0161011
+        ]
+      },
+      "id": "node/10177919684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12912651330",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6100622,
+          23.0523056
+        ]
+      },
+      "id": "node/12912651330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12912651331",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6101214,
+          23.0521516
+        ]
+      },
+      "id": "node/12912651331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13081325157",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mahapragnaji Bridge Approach",
+        "network": "Sarangpur circular route- 106",
+        "operator": "AMTS",
+        "public_transport": "platform",
+        "ref": "5",
+        "shelter": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5952154,
+          23.0528796
+        ]
+      },
+      "id": "node/13081325157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13116047286",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4421495,
+          23.0549257
+        ]
+      },
+      "id": "node/13116047286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639910",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Naroda S.T. Workshop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6429675,
+          23.0642483
+        ]
+      },
+      "id": "node/13324639910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639911",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dhanush Dhari Mandir",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6429405,
+          23.0598077
+        ]
+      },
+      "id": "node/13324639911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639912",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nada Chiloda",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6424602,
+          23.0549301
+        ]
+      },
+      "id": "node/13324639912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639913",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vijay Park",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6418538,
+          23.0513889
+        ]
+      },
+      "id": "node/13324639913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639914",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hirawadi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6409989,
+          23.0456662
+        ]
+      },
+      "id": "node/13324639914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639915",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Thakkar Nagar Approach",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.640553,
+          23.0412083
+        ]
+      },
+      "id": "node/13324639915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639916",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lilanagar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6400507,
+          23.0369762
+        ]
+      },
+      "id": "node/13324639916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639917",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bapunagar Approach",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6392784,
+          23.0326239
+        ]
+      },
+      "id": "node/13324639917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639918",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Viratnagar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6388022,
+          23.0275605
+        ]
+      },
+      "id": "node/13324639918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639919",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Soni ni Chali",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6384382,
+          23.0205533
+        ]
+      },
+      "id": "node/13324639919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639920",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Geeta Gauri Cinema",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6384534,
+          23.0174077
+        ]
+      },
+      "id": "node/13324639920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639921",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rameshwar Park",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6384727,
+          23.0136638
+        ]
+      },
+      "id": "node/13324639921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639922",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ram Rajya Nagar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6381291,
+          23.0080678
+        ]
+      },
+      "id": "node/13324639922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639923",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rabari Colony",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6369046,
+          23.0043839
+        ]
+      },
+      "id": "node/13324639923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639924",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jogeshwari Society",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6356334,
+          23.0005139
+        ]
+      },
+      "id": "node/13324639924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639925",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Purvdeep Society",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6342048,
+          22.9961731
+        ]
+      },
+      "id": "node/13324639925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639926",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CTM Cross Road",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6317678,
+          22.9913284
+        ]
+      },
+      "id": "node/13324639926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639927",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Express Highway Junction",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6276786,
+          22.9873084
+        ]
+      },
+      "id": "node/13324639927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639928",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jashodanagar Char Rasta",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6239988,
+          22.983866
+        ]
+      },
+      "id": "node/13324639928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639929",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ghodasar",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6101796,
+          22.9785228
+        ]
+      },
+      "id": "node/13324639929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639930",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Isanpur",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6023849,
+          22.976216
+        ]
+      },
+      "id": "node/13324639930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639931",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mukesh Industries",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5953065,
+          22.9740123
+        ]
+      },
+      "id": "node/13324639931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639932",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Narol",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5895984,
+          22.9729765
+        ]
+      },
+      "id": "node/13324639932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639933",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kashiram Textiles",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5867831,
+          22.9768712
+        ]
+      },
+      "id": "node/13324639933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639934",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chandola Octroi Naka",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5857084,
+          22.9821643
+        ]
+      },
+      "id": "node/13324639934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639935",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chandola Lake",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5826202,
+          22.9864945
+        ]
+      },
+      "id": "node/13324639935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639936",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chhipa Society",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5816699,
+          22.9915528
+        ]
+      },
+      "id": "node/13324639936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13324639937",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Danilimda Road",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5791374,
+          22.9961364
+        ]
+      },
+      "id": "node/13324639937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13582340756",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Sakar School Bus Stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5909683,
+          23.1091079
+        ]
+      },
+      "id": "node/13582340756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13582340757",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Sakar School Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5910153,
+          23.1092205
+        ]
+      },
+      "id": "node/13582340757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13582340758",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swagat Bungalows Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5927065,
+          23.1093569
+        ]
+      },
+      "id": "node/13582340758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13582340759",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swagat Bungalows Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5929077,
+          23.1091859
+        ]
+      },
+      "id": "node/13582340759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13831008601",
+        "highway": "bus_stop",
+        "name": "Sola bridge BRTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.52929,
+          23.0651818
+        ]
+      },
+      "id": "node/13831008601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13831023302",
+        "highway": "bus_stop",
+        "name": "Bhadaj circle BRTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4951871,
+          23.0830981
+        ]
+      },
+      "id": "node/13831023302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13971550301",
+        "highway": "bus_stop",
+        "name": "Krishnanagar bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.643691,
+          23.060079
+        ]
+      },
+      "id": "node/13971550301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065371938",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5901624,
+          23.0918799
+        ]
+      },
+      "id": "node/14065371938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065371939",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5900854,
+          23.0920986
+        ]
+      },
+      "id": "node/14065371939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065371944",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5885243,
+          23.0975286
+        ]
+      },
+      "id": "node/14065371944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065378501",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.588619,
+          23.0972869
+        ]
+      },
+      "id": "node/14065378501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065537947",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5866936,
+          23.1034258
+        ]
+      },
+      "id": "node/14065537947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065537984",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5918272,
+          23.0861655
+        ]
+      },
+      "id": "node/14065537984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065537993",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5851226,
+          23.1083631
+        ]
+      },
+      "id": "node/14065537993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065559352",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5919337,
+          23.0859657
+        ]
+      },
+      "id": "node/14065559352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065559355",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5866105,
+          23.103616
+        ]
+      },
+      "id": "node/14065559355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065559360",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5852064,
+          23.1081536
+        ]
+      },
+      "id": "node/14065559360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065592772",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5605965,
+          23.0206839
+        ]
+      },
+      "id": "node/14065592772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14065980175",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5951415,
+          23.0621384
+        ]
+      },
+      "id": "node/14065980175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14066805529",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5589352,
+          23.0239489
+        ]
+      },
+      "id": "node/14066805529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14066805535",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "layer": "1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5703788,
+          23.0237239
+        ]
+      },
+      "id": "node/14066805535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14066805548",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "layer": "1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5701678,
+          23.023699
+        ]
+      },
+      "id": "node/14066805548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14066805549",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5591535,
+          23.023959
+        ]
+      },
+      "id": "node/14066805549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067660536",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "kerb": "raised",
+        "kerb:approach_aid": "yes",
+        "lit": "yes",
+        "name": "Municipal Corporation Office",
+        "operator": "BRTS",
+        "passenger_information_display": "yes",
+        "passenger_information_display:speech_output": "no",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5862309,
+          23.0196415
+        ]
+      },
+      "id": "node/14067660536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067896007",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5884581,
+          23.018649
+        ]
+      },
+      "id": "node/14067896007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067896008",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5886857,
+          23.0185902
+        ]
+      },
+      "id": "node/14067896008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067896010",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5807193,
+          23.0217848
+        ]
+      },
+      "id": "node/14067896010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067896014",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.580265,
+          23.0219756
+        ]
+      },
+      "id": "node/14067896014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067896024",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5804717,
+          23.0219706
+        ]
+      },
+      "id": "node/14067896024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14067896029",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5711271,
+          23.0499103
+        ]
+      },
+      "id": "node/14067896029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14068187984",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5786126,
+          23.0273329
+        ]
+      },
+      "id": "node/14068187984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14068187990",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5661335,
+          23.0215573
+        ]
+      },
+      "id": "node/14068187990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14068187993",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5711213,
+          23.0249562
+        ]
+      },
+      "id": "node/14068187993"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "asset_id": "RD-AHM-01",
+        "layer_type": "Roads",
+        "name": "Sarkhej-Gandhinagar (SG) Highway Expressway",
+        "status": "Operational",
+        "speed_limit_kmh": 80,
+        "lanes": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.507,
+            23.01
+          ],
+          [
+            72.515,
+            23.08
+          ],
+          [
+            72.532,
+            23.14
+          ],
+          [
+            72.63,
+            23.215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "asset_id": "RD-AHM-02",
+        "layer_type": "Roads",
+        "name": "Ahmedabad-Dholera SIR Expressway Corridor",
+        "status": "Active",
+        "speed_limit_kmh": 100,
+        "lanes": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.55,
+            23
+          ],
+          [
+            72.45,
+            22.85
+          ],
+          [
+            72.2,
+            22.65
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "asset_id": "PWR-SUB-01",
+        "layer_type": "Power Grid",
+        "name": "Pirana 400kV High-Voltage Substation Node",
+        "capacity": "400 kV",
+        "grid_status": "Nominal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61,
+          22.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "asset_id": "PWR-SUB-02",
+        "layer_type": "Power Grid",
+        "name": "Koba 220kV Substation Transmission Hub",
+        "capacity": "220 kV",
+        "grid_status": "Nominal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.635,
+          23.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "asset_id": "WAT-CAN-01",
+        "layer_type": "Water Pipeline / Canal",
+        "name": "Narmada Main Canal Feeder Line",
+        "usage": "Bulk Irrigation & Urban Potable Water Supply",
+        "flow_capacity": "10,000 cusecs"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.68,
+            23.15
+          ],
+          [
+            72.58,
+            23.25
+          ],
+          [
+            72.4,
+            23.35
+          ]
+        ]
+      }
+    }
+  ]
+}

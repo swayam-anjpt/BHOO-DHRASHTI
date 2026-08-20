@@ -1,0 +1,24 @@
+﻿{
+  "district": "Ahmedabad",
+  "state": "Gujarat",
+  "data_source": "ISRO Bhuvan Natural Resources Census (NRC) - LULC & Wasteland Classification",
+  "scale": "1:10,000 / 1:50,000",
+  "classification_standard": "NRSC / ISRO 24-Class Harmonized Schema",
+  "wasteland_and_barren_categories": [
+    {
+      "category_name": "Barren / Unculturable / Wastelands - Salt Affected Land",
+      "bhuvan_code": "BARN_SALT",
+      "description": "Inland saline and alkaline flats common in the northern and western tracts of Ahmedabad district."
+    },
+    {
+      "category_name": "Scrub Land",
+      "bhuvan_code": "SCRB_LAND",
+      "description": "Upland terrain dominated by wild shrubs, thorny vegetation, and sparse topsoil coverage."
+    },
+    {
+      "category_name": "Sandy Area / Riverine Wasteland",
+      "bhuvan_code": "SAND_RIV",
+      "description": "Barren sandy riverbeds and uncultivated tracts adjacent to the Sabarmati river basin."
+    }
+  ]
+}

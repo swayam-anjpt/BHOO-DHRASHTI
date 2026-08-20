@@ -1,0 +1,62 @@
+[
+  {
+    "name":"Civil Hospital Ahmedabad",
+    "type":"hospital",
+    "longitude":72.5973,
+    "latitude":23.0489
+  },
+  {
+    "name":"SAL Hospital",
+    "type":"hospital",
+    "longitude":72.5185,
+    "latitude":23.0378
+  },
+  {
+    "name":"Apollo Hospitals Gandhinagar-Ahmedabad",
+    "type":"hospital",
+    "longitude":72.5714,
+    "latitude":23.1645
+  },
+  {
+    "name":"Ahmedabad Municipal Corporation School No. 1",
+    "type":"school",
+    "longitude":72.5714,
+    "latitude":23.0225
+  },
+  {
+    "name":"St. Xavier's High School, Loyola",
+    "type":"school",
+    "longitude":72.535,
+    "latitude":23.036
+  },
+  {
+    "name":"Delhi Public School Bopal",
+    "type":"school",
+    "longitude":72.4582,
+    "latitude":23.0393
+  },
+  {
+    "name":"Navrangpura Police Station",
+    "type":"police",
+    "longitude":72.5581,
+    "latitude":23.0363
+  },
+  {
+    "name":"Satellite Police Station",
+    "type":"police",
+    "longitude":72.5168,
+    "latitude":23.0296
+  },
+  {
+    "name":"Geetamandir Central Bus Station",
+    "type":"bus_station",
+    "longitude":72.591,
+    "latitude":23.018
+  },
+  {
+    "name":"Ranip Bus Station",
+    "type":"bus_station",
+    "longitude":72.5714,
+    "latitude":23.075
+  }
+]

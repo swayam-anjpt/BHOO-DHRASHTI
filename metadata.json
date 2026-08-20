@@ -1,0 +1,10 @@
+{
+  "name": "Remix Bhoo Drishti — Geospatial Intelligence Platform",
+  "description": "National geospatial intelligence and land governance platform for equity-weighted infrastructure planning, cadastral analytics, official governance access, and citizen participation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
