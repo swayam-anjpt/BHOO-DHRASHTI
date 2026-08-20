@@ -27,5 +27,4 @@ Thumbs.db
 
 # Large binary files exceeding GitHub 100MB limit
 *.gpkg
-*.mp4
 server-data/**/udise_schools.csv
